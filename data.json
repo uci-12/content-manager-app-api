@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Add new UPDATE",
+    "description": "Add new UPDATE",
+    "link": "Add new UPDATE",
+    "priority": "1",
+    "timeToFinish": 59,
+    "createdAt": "2024-03-25T08:33:44.206Z",
+    "status": "complete",
+    "id": "1711355624206"
+  },
+  {
+    "title": "Primary Javascript",
+    "description": "Primary Javascript Description",
+    "link": "www.linkedin.com",
+    "priority": "3",
+    "timeToFinish": "1",
+    "createdAt": "2024-03-25T08:03:52.914Z",
+    "status": "complete",
+    "id": "1711353832914"
+  },
+  {
+    "title": "Try after reusable",
+    "description": "Try after reusable desc",
+    "link": "www.google.com",
+    "priority": "1",
+    "timeToFinish": "42",
+    "createdAt": "2024-03-25T08:00:10.912Z",
+    "status": "inactive",
+    "id": "1711353610912"
+  },
+  {
+    "title": "Resource Detail",
+    "description": "Resource should be clickable",
+    "link": "www.facebook.com",
+    "priority": "3",
+    "timeToFinish": "2",
+    "createdAt": "2024-03-25T04:20:16.399Z",
+    "status": "inactive",
+    "id": "1711340416399"
+  },
+  {
+    "title": "useRouter Implementation",
+    "description": "try to use router after add resource",
+    "link": "www.google.com",
+    "priority": "3",
+    "timeToFinish": "1",
+    "createdAt": "2024-03-25T04:06:24.884Z",
+    "status": "complete",
+    "id": "1711339584884"
+  },
+  {
+    "title": "Review React",
+    "description": "try to review react learning",
+    "link": "www.google.com",
+    "priority": "2",
+    "timeToFinish": 1,
+    "createdAt": "2024-03-25T04:01:16.312Z",
+    "status": "complete",
+    "id": "1711339276312"
+  },
+  {
+    "title": "Store data title",
+    "description": "Store data desc",
+    "link": "Store data link",
+    "priority": "1",
+    "timeToFinish": "64",
+    "createdAt": "2024-03-24T15:10:53.518Z",
+    "status": "inactive",
+    "id": "1711293053518"
+  },
+  {
+    "id": "1",
+    "title": "Singleton Pattern Design",
+    "description": "This is a starter template for creating a beautiful, customizable blog with minimal effort.",
+    "link": "https://link.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "inactive",
+    "createdAt": "2024-03-25T08:33:44.206Z"
+  },
+  {
+    "id": "2",
+    "title": "Design Pattern React",
+    "description": "You’ll only have to change a few settings and you’re ready to go. As with all Jigsaw sites, configuration settings can be found in config",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive",
+    "createdAt": "2024-03-25T08:33:44.206Z"
+  },
+  {
+    "id": "3",
+    "title": "NextJs vs NuxtJs",
+    "description": "To preview the 404 page, you can visit /404 in your browser. Depending...",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive",
+    "createdAt": "2024-03-25T08:33:44.206Z"
+  },
+  {
+    "id": "4",
+    "title": "NextJs vs NuxtJs COPY",
+    "description": "[COPY] To preview the 404 page, you can visit /404 in your browser. Depending...",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive",
+    "createdAt": "2024-03-25T08:33:44.206Z"
+  },
+  {
+    "id": "5",
+    "title": "NextJs vs NuxtJs [FALLBACK - FALSE]",
+    "description": "[FALLBACK - FALSE] To preview the 404 page, you can visit /404 in your browser. Depending...",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive",
+    "createdAt": "2024-03-25T08:33:44.206Z"
+  }
+]
